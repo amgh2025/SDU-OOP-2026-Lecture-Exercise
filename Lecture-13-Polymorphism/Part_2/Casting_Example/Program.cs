@@ -54,6 +54,10 @@ class Program
 
         person.Introduce();
 
+        // 2.Upcasting (Implicit Casting )
+        Person p = new Student("Henrik", 103);
+        p.Introduce();
+
         // 2. Downcasting (Explicit Casting)
         Student studentAgain = (Student)person;
         studentAgain.Study();
