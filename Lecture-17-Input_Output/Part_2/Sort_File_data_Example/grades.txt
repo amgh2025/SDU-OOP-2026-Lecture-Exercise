@@ -1,0 +1,5 @@
+Peter,10
+Sara,12
+Henrik,7
+Emma,10
+Lucas,4
