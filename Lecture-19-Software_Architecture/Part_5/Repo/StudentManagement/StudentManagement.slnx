@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StudentManagement.Console/StudentManagement.Console.csproj" />
+  <Project Path="StudentManagement.Core/StudentManagement.Core.csproj" />
+  <Project Path="StudentManagement.Data/StudentManagement.Data.csproj" />
+</Solution>
